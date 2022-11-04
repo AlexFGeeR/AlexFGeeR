@@ -23,6 +23,11 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier">
 </div>
 <div>
+  <h2>Currently Learning: </h2>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactLogo">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+</div>
+<div>
   <h2>💡 Currently working & completed projects</h2>
   <p>~25 maked layouts from the Internet ✅</p>
   <p>~10 workshop mods for Garry's Mod ✅ - LUA</p>
