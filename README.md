@@ -30,7 +30,6 @@
 <div>
   <h2>💡 Currently working & completed projects</h2>
   <p>~25 maked layouts from the Internet ✅</p>
-  <p>markUp for Melekess ✅</p>
   <p>~10 workshop mods for Garry's Mod ✅ - LUA</p>
   <p>Discord bot to make clan war more effectively ✅ - PostgreSQL, ORM Sequelize, Node.JS, Discord.js</p>
   <p>Telegram bot for mailing ✅ - PostgreSQL, ORM Sequelie, Node.JS, telegraf.js</p>
