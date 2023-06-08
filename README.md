@@ -27,13 +27,3 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactLogo">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
 </div>
-<div>
-  <h2>💡 Currently working & completed projects</h2>
-  <p>~25 maked layouts from the Internet ✅</p>
-  <p>~10 workshop mods for Garry's Mod ✅ - LUA</p>
-  <p>Discord bot to make clan war more effectively ✅ - PostgreSQL, ORM Sequelize, Node.JS, Discord.js</p>
-  <p>Telegram bot for mailing ✅ - PostgreSQL, ORM Sequelie, Node.JS, telegraf.js</p>
-  <p>Web-course platform ✅ - PostgreSQL, ORM Sequelize, Node.js, Express.js</p>
-  <p>Discord bot with Audio input to Tarkov Market ❌ - Node.js </p>
-</div>
-<img src="" alt="">
